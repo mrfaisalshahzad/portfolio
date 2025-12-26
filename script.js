@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const phrases = [
         "A Fintech Leader",
         "Driving Innovation & Growth",
-        "Head of Mobile Financial Services Sales"
+        "Head of Growth & Insights"
     ];
     let phraseIndex = 0;
     let charIndex = 0;
@@ -98,3 +98,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
